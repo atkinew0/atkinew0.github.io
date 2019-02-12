@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Tabula Rasa</title>
+    <link>https://atkinew0.github.io/about/</link>
+    <description>Recent content in Abouts on Tabula Rasa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 21:16:32 -0800</lastBuildDate>
+    
+	<atom:link href="https://atkinew0.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://atkinew0.github.io/about/about/</link>
+      <pubDate>Tue, 05 Feb 2019 21:16:32 -0800</pubDate>
+      
+      <guid>https://atkinew0.github.io/about/about/</guid>
+      <description>I am a lawyer, programmer and foreign language learner (Japanese, Spanish, French, and a little Russian and Chinese). I plan to write about my thoughts and projects making automated tools to learn programming languages, and whatever else pops into my head. Contact me at atkinson.eli@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
