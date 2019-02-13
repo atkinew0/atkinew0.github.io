@@ -38,7 +38,7 @@ for(let i = 0; i &lt; nums.length; i++){
 
 <p>I have been thinking of compiling something like “most commonly used 1 to 3 line code snippets of Python” because Python in particular I use just enough that I never can remember the syntax quirks and method names. I have no idea what percent of Python one needs to know to be effective that this would cover but my guess is that programming languages are actually much more repetitive and susceptible to this kind of drilling/practice than natural languages if you are not bogged down by learning new concepts.</p>
 
-<p>To test this idea I built this app <a href="#jsquiz">JSQuiz</a> that can be used to check and drill memory of almost all of JavaScript’s built in methods from Object, Array, String, Boolean, Number, and Math objects (approximately 100 methods leaving out the more obscure like Math.asinh() ). Will being able to remember things like the difference between Object.freeze() and Object.seal() actually make my JavaScript any better? I’m not sure but I plan to try drilling for about 15 minutes once or twice a week to find out.</p>
+<p>To test this idea I built this app <a style="color:lightblue" href="https://atkinew0.github.io/jsquiz/">JSQuiz</a> that can be used to check and drill memory of almost all of JavaScript’s built in methods from Object, Array, String, Boolean, Number, and Math objects (approximately 100 methods leaving out the more obscure like Math.asinh() ). Will being able to remember things like the difference between Object.freeze() and Object.seal() actually make my JavaScript any better? I’m not sure but I plan to try drilling for about 15 minutes once or twice a week to find out.</p>
 ]]></content>
 		</item>
 		
