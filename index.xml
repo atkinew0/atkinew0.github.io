@@ -14,10 +14,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://atkinew0.github.io/projects/projects/</link>
+      <link>https://atkinew0.github.io/projects/</link>
       <pubDate>Fri, 15 Feb 2019 20:09:16 -0800</pubDate>
       
-      <guid>https://atkinew0.github.io/projects/projects/</guid>
+      <guid>https://atkinew0.github.io/projects/</guid>
       <description>.project-container{ display:flex; margin:50px; } .project-image { width:80%; height:80%; box-sizing:border-box; } .project-image:hover{ border:red solid 3px; } .label{ text-align:center; font-weight:bold; }  These are some of the projects I have made to learn programming concepts: Mastershell   JSQuiz</description>
     </item>
     
