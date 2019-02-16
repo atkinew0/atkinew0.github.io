@@ -7,8 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 05 Feb 2019 21:03:12 -0800</lastBuildDate>
+		<lastBuildDate>Tue, 05 Feb 2019 21:10:17 -0800</lastBuildDate>
 		<atom:link href="https://atkinew0.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>JSQuiz</title>
+			<link>https://atkinew0.github.io/posts/b/</link>
+			<pubDate>Tue, 05 Feb 2019 21:10:17 -0800</pubDate>
+			
+			<guid>https://atkinew0.github.io/posts/b/</guid>
+			<description>This is my tool for practicing JavaScript&amp;rsquo;s built in Object methods. To be written about later.
+JSQuiz</description>
+			<content type="html"><![CDATA[<p>This is my tool for practicing JavaScript&rsquo;s built in Object methods. To be written about later.</p>
+
+<p><a style="color:lightblue" href="https://atkinew0.github.io/jsquiz/">JSQuiz</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Foreign Language Learning Applied To Programming</title>
